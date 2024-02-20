@@ -1,5 +1,5 @@
 public class InterestManager {
-    public static void main(String [] args) {
+    public static void main(String[] args) {
         InterestManager manager = new InterestManager();
 
         for(int day=10;day<=370;day+=10) {
